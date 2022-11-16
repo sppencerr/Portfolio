@@ -98,7 +98,7 @@ nav {
 
 .navbar__link--anch {
   margin: 0 12px;
-  color: #545454;
+  color: #888787;
   font-weight: 700;
 }
 
@@ -106,7 +106,7 @@ nav {
   background-color: #5f0e30;
   padding: 8px 20px;
   border-radius: 50px;
-  color: #545454;
+  color: #888787;
   transition: all 300ms ease;
 }
 
@@ -115,13 +115,13 @@ nav {
 }
 .website__creator {
   font-size: 24px;
-  color: #552c2c;
+  color: #888787;
   margin: 0 12px;
   font-weight: bold;
   border-radius: 50px;
   background-color: #5f0e30;
   border-spacing: 10px;
-  border: #4a4949;
+  border: rgb(210, 208, 208);
   border-width: 10px;
   padding: 8px 20px;
 }
